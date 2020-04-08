@@ -96,3 +96,5 @@ func extractAddrs(resp *clientv3.GetResponse) []string {
 
 	return addrs
 }
+
+func main() {}
