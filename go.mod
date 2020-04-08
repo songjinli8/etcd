@@ -4,7 +4,7 @@ go 1.14
 
 replace github.com/coreos/bbolt => go.etcd.io/bbolt v1.3.4
 
-replace github.com/coreos/etcd v3.3.20+incompatible => github.com/coreos/etcd v3.3.4+incompatible
+replace github.com/coreos/etcd@v3.3.20+incompatible => github.com/coreos/etcd v3.3.4+incompatible
 
 replace github.com/etcd-io/etcd@v3.3.20+incompatible => github.com/etcd-io/etcd v3.3.4+incompatible
 
