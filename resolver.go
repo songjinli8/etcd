@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/coreos/etcd/clientv3"
 	"github.com/coreos/etcd/mvcc/mvccpb"
+	"github.com/etcd-io/etcd/clientv3"
 	"google.golang.org/grpc/naming"
 	//"google.golang.org/grpc/resolver"
 )
